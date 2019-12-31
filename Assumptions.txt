@@ -1,0 +1,7 @@
+1) customers took 10000 credit for everymonth
+2) Operating cost charged Rs25 per card per month
+3) Affiliation fees Rs10 per card per month
+4) Cost of funds 6.5% of the total interest charged
+5) All customers starts taking loan on 1st day of the month
+6) assumed only transactors data no revolvers
+7) Only products are bought, no transfer of amount is included
